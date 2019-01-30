@@ -4,7 +4,7 @@
         icon: "run",
         subtitle: "Coût: Vitesse utilisée",
         description: "Coût: Vitesse de chaque mode de déplacement",
-        reference: "PHB, pg. 190.",
+        reference: "MDR, pg. 270. / PHB, pg. 190.",
         bullets: [
             "Lors de votre tour, vous pouvez vous déplacer sur une distance inférieure ou égale à votre vitesse. Pendant votre déplacement, vous pouvez combiner ou alterner le saut, l'escalade ou la nage. Vous devez soustraire à chaque mode de déplacement le coût correspondant à votre vitesse, et vous arrêter si votre vitesse est réduite à 0.",
             "Vous pouvez traverser un emplacement occupé par une créature amie.",
@@ -42,7 +42,8 @@
         bullets: [
             "Vous pouvez tomber et chuter d'une hauteur importante volontairement ou non.",
             "Vous subissez 1d6 de dégâts par tranche de 3 mètres de chute.",
-            "Le maximum de dégâts est de 20d6, sauf si vous pouvez les éviter, sinon vous serez à terre à la fin de votre chute."
+            "Le maximum de dégâts est de 20d6",
+			"À moins qu’elle n’ait réussi à éviter de subir les dégâts occasionnés par la chute, la créature termine à terre."
         ]
     },
     {
