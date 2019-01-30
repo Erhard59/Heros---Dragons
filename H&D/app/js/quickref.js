@@ -62,6 +62,7 @@ function init() {
     fill_section(data_bonusaction, "basic-bonus-actions", "Actions Bonus");
     fill_section(data_reaction, "basic-reactions", "Réactions");
     fill_section(data_condition, "basic-conditions", "Etats");
+	fill_section(data_environment_asphyxie, "environment-asphyxie", "Environnement");
     fill_section(data_environment_obscurance, "environment-obscurance", "Environnement");
     fill_section(data_environment_light, "environment-light", "Environnement");
     fill_section(data_environment_vision, "environment-vision", "Environnement");

@@ -1,3 +1,17 @@
+data_environment_asphyxie = [    
+    {
+        title: "Asphyxie",
+        icon: "drowning",
+        subtitle: "Retenir sa respiration",
+        description: "Vous pouvez retenir votre respiration pendant un nombre de minutes égal à 1 + modificateur de Constitution",
+        reference: "MDR, pg. 274.",
+        bullets: [
+            "Quand une créature n’a plus d’air ou qu’elle est en train d’étouffer, elle peut survivre un nombre de rounds égal à son modificateur de Constitution (avec un minimum de 1 round)",
+			"Au début du round suivant, son nombre de point de vie est réduit à 0 et elle agonise. Elle ne peut pas regagner de point de vie ou être stabilisée tant qu’elle ne peut pas respirer."
+        ]
+    }
+]
+
 data_environment_obscurance = [
     {
         title: "Visibilité réduite",
